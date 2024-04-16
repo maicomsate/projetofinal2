@@ -4,7 +4,7 @@ body {
   background: linear-gradient(180deg, rgba(26, 255, 202, 0.13) 0%, rgba(227, 255, 248, 0.38) 100%);  min-height: 100vh;
 }
 
-.page {
+#page {
   width: 1000px;
   margin: 0 auto 0;
   padding-top: 65px;
@@ -109,4 +109,7 @@ footer a {
   position: fixed;
   bottom: 50px;
   right: 50px;
+}
+#problema{
+  display:block;
 }
